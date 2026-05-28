@@ -213,7 +213,7 @@ Based on current implementation, login is hardcoded in the source.
 
 Add screenshots to a `docs/screenshots/` folder and update paths below.
 
-- ![Login Screen](docs/screenshots/Login.png)
+- ![Login Screen](docs/screenshots/login.png)
 - ![Dashboard](docs/screenshots/dashboard.png)
 - ![Category Management](docs/screenshots/category-management.png)
 - ![Product Management](docs/screenshots/product-management.png)
