@@ -1,0 +1,217 @@
+C:\Users\User\Desktop\monir\MyProject\bin\Debug\MyProject.exe.config
+C:\Users\User\Desktop\monir\MyProject\bin\Debug\MyProject.exe
+C:\Users\User\Desktop\monir\MyProject\bin\Debug\MyProject.pdb
+C:\Users\User\Desktop\monir\MyProject\obj\Debug\MyProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\monir\MyProject\obj\Debug\MyProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\monir\MyProject\obj\Debug\MyProject.Forms.CategoryForm.resources
+C:\Users\User\Desktop\monir\MyProject\obj\Debug\MyProject.Forms.LoginForm.resources
+C:\Users\User\Desktop\monir\MyProject\obj\Debug\MyProject.Forms.OrderManagementForm.resources
+C:\Users\User\Desktop\monir\MyProject\obj\Debug\MyProject.Forms.ProductForm.resources
+C:\Users\User\Desktop\monir\MyProject\obj\Debug\MyProject.MainForm.resources
+C:\Users\User\Desktop\monir\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+C:\Users\User\Desktop\monir\MyProject\obj\Debug\MyProject.csproj.GenerateResource.cache
+C:\Users\User\Desktop\monir\MyProject\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\monir\MyProject\obj\Debug\MyProject.exe
+C:\Users\User\Desktop\monir\MyProject\obj\Debug\MyProject.pdb
+C:\Users\IDB_C#\Downloads\MyProject update\bin\Debug\MyProject.exe.config
+C:\Users\IDB_C#\Downloads\MyProject update\bin\Debug\MyProject.exe
+C:\Users\IDB_C#\Downloads\MyProject update\obj\Debug\MyProject.csproj.AssemblyReference.cache
+C:\Users\IDB_C#\Downloads\MyProject update\obj\Debug\MyProject.Forms.CategoryForm.resources
+C:\Users\IDB_C#\Downloads\MyProject update\obj\Debug\MyProject.Forms.LoginForm.resources
+C:\Users\IDB_C#\Downloads\MyProject update\obj\Debug\MyProject.Forms.OrderManagementForm.resources
+C:\Users\IDB_C#\Downloads\MyProject update\obj\Debug\MyProject.Forms.ProductForm.resources
+C:\Users\IDB_C#\Downloads\MyProject update\obj\Debug\MyProject.MainForm.resources
+C:\Users\IDB_C#\Downloads\MyProject update\obj\Debug\MyProject.Properties.Resources.resources
+C:\Users\IDB_C#\Downloads\MyProject update\obj\Debug\MyProject.csproj.GenerateResource.cache
+C:\Users\IDB_C#\Downloads\MyProject update\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\IDB_C#\Downloads\MyProject update\obj\Debug\MyProject.exe
+C:\Users\IDB_C#\Downloads\MyProject update\obj\Debug\MyProject.pdb
+C:\Users\IDB_C#\Downloads\MyProject update\bin\Debug\MyProject.pdb
+C:\Users\User\Desktop\MyProject update - Test\bin\Debug\MyProject.exe.config
+C:\Users\User\Desktop\MyProject update - Test\bin\Debug\MyProject.exe
+C:\Users\User\Desktop\MyProject update - Test\bin\Debug\MyProject.pdb
+C:\Users\User\Desktop\MyProject update - Test\obj\Debug\MyProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MyProject update - Test\obj\Debug\MyProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\MyProject update - Test\obj\Debug\MyProject.Forms.CategoryForm.resources
+C:\Users\User\Desktop\MyProject update - Test\obj\Debug\MyProject.Forms.LoginForm.resources
+C:\Users\User\Desktop\MyProject update - Test\obj\Debug\MyProject.Forms.OrderManagementForm.resources
+C:\Users\User\Desktop\MyProject update - Test\obj\Debug\MyProject.Forms.ProductForm.resources
+C:\Users\User\Desktop\MyProject update - Test\obj\Debug\MyProject.MainForm.resources
+C:\Users\User\Desktop\MyProject update - Test\obj\Debug\MyProject.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MyProject update - Test\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MyProject update - Test\obj\Debug\MyProject.exe
+C:\Users\User\Desktop\MyProject update - Test\obj\Debug\MyProject.pdb
+C:\Users\User\Desktop\monir\16-12-25\MyProject _16\bin\Debug\MyProject.exe.config
+C:\Users\User\Desktop\monir\16-12-25\MyProject _16\bin\Debug\MyProject.exe
+C:\Users\User\Desktop\monir\16-12-25\MyProject _16\bin\Debug\MyProject.pdb
+C:\Users\User\Desktop\monir\16-12-25\MyProject _16\obj\Debug\MyProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\monir\16-12-25\MyProject _16\obj\Debug\MyProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\monir\16-12-25\MyProject _16\obj\Debug\MyProject.Forms.CategoryForm.resources
+C:\Users\User\Desktop\monir\16-12-25\MyProject _16\obj\Debug\MyProject.Forms.LoginForm.resources
+C:\Users\User\Desktop\monir\16-12-25\MyProject _16\obj\Debug\MyProject.Forms.OrderManagementForm.resources
+C:\Users\User\Desktop\monir\16-12-25\MyProject _16\obj\Debug\MyProject.Forms.ProductForm.resources
+C:\Users\User\Desktop\monir\16-12-25\MyProject _16\obj\Debug\MyProject.MainForm.resources
+C:\Users\User\Desktop\monir\16-12-25\MyProject _16\obj\Debug\MyProject.csproj.GenerateResource.cache
+C:\Users\User\Desktop\monir\16-12-25\MyProject _16\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\monir\16-12-25\MyProject _16\obj\Debug\MyProject.exe
+C:\Users\User\Desktop\monir\16-12-25\MyProject _16\obj\Debug\MyProject.pdb
+C:\Users\User\Desktop\MyProject _Test\bin\Debug\MyProject.exe.config
+C:\Users\User\Desktop\MyProject _Test\bin\Debug\MyProject.exe
+C:\Users\User\Desktop\MyProject _Test\bin\Debug\MyProject.pdb
+C:\Users\User\Desktop\MyProject _Test\obj\Debug\MyProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MyProject _Test\obj\Debug\MyProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\MyProject _Test\obj\Debug\MyProject.Forms.CategoryForm.resources
+C:\Users\User\Desktop\MyProject _Test\obj\Debug\MyProject.Forms.LoginForm.resources
+C:\Users\User\Desktop\MyProject _Test\obj\Debug\MyProject.Forms.OrderManagementForm.resources
+C:\Users\User\Desktop\MyProject _Test\obj\Debug\MyProject.Forms.ProductForm.resources
+C:\Users\User\Desktop\MyProject _Test\obj\Debug\MyProject.MainForm.resources
+C:\Users\User\Desktop\MyProject _Test\obj\Debug\MyProject.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MyProject _Test\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MyProject _Test\obj\Debug\MyProject.exe
+C:\Users\User\Desktop\MyProject _Test\obj\Debug\MyProject.pdb
+C:\Users\IDB_C#\Desktop\17-12-25\MyProject _17\bin\Debug\MyProject.exe.config
+C:\Users\IDB_C#\Desktop\17-12-25\MyProject _17\bin\Debug\MyProject.exe
+C:\Users\IDB_C#\Desktop\17-12-25\MyProject _17\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\IDB_C#\Desktop\17-12-25\MyProject _17\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\IDB_C#\Desktop\17-12-25\MyProject _17\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\IDB_C#\Desktop\17-12-25\MyProject _17\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\IDB_C#\Desktop\17-12-25\MyProject _17\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\IDB_C#\Desktop\17-12-25\MyProject _17\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\IDB_C#\Desktop\17-12-25\MyProject _17\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\IDB_C#\Desktop\17-12-25\MyProject _17\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\IDB_C#\Desktop\17-12-25\MyProject _17\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\IDB_C#\Desktop\17-12-25\MyProject _17\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\IDB_C#\Desktop\17-12-25\MyProject _17\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\IDB_C#\Desktop\17-12-25\MyProject _17\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\IDB_C#\Desktop\17-12-25\MyProject _17\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\IDB_C#\Desktop\17-12-25\MyProject _17\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\IDB_C#\Desktop\17-12-25\MyProject _17\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\IDB_C#\Desktop\17-12-25\MyProject _17\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\IDB_C#\Desktop\17-12-25\MyProject _17\bin\Debug\stdole.dll
+C:\Users\IDB_C#\Desktop\17-12-25\MyProject _17\obj\Debug\MyProject.csproj.AssemblyReference.cache
+C:\Users\IDB_C#\Desktop\17-12-25\MyProject _17\obj\Debug\MyProject.Forms.CategoryForm.resources
+C:\Users\IDB_C#\Desktop\17-12-25\MyProject _17\obj\Debug\MyProject.Forms.LoginForm.resources
+C:\Users\IDB_C#\Desktop\17-12-25\MyProject _17\obj\Debug\MyProject.Forms.OrderManagementForm.resources
+C:\Users\IDB_C#\Desktop\17-12-25\MyProject _17\obj\Debug\MyProject.Forms.ProductForm.resources
+C:\Users\IDB_C#\Desktop\17-12-25\MyProject _17\obj\Debug\MyProject.MainForm.resources
+C:\Users\IDB_C#\Desktop\17-12-25\MyProject _17\obj\Debug\MyProject.Report.Form1.resources
+C:\Users\IDB_C#\Desktop\17-12-25\MyProject _17\obj\Debug\MyProject.csproj.GenerateResource.cache
+C:\Users\IDB_C#\Desktop\17-12-25\MyProject _17\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\IDB_C#\Desktop\17-12-25\MyProject _17\obj\Debug\MyProject.csproj.Up2Date
+C:\Users\IDB_C#\Desktop\17-12-25\MyProject _17\obj\Debug\MyProject.exe
+C:\Users\IDB_C#\Desktop\17-12-25\MyProject _17\obj\Debug\MyProject.pdb
+C:\Users\IDB_C#\Desktop\17-12-25\MyProject _17\bin\Debug\MyProject.pdb
+C:\Users\User\Desktop\MyProject _17_afternoon\bin\Debug\MyProject.exe.config
+C:\Users\User\Desktop\MyProject _17_afternoon\bin\Debug\MyProject.exe
+C:\Users\User\Desktop\MyProject _17_afternoon\bin\Debug\MyProject.pdb
+C:\Users\User\Desktop\MyProject _17_afternoon\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\User\Desktop\MyProject _17_afternoon\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\User\Desktop\MyProject _17_afternoon\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\User\Desktop\MyProject _17_afternoon\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\User\Desktop\MyProject _17_afternoon\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\User\Desktop\MyProject _17_afternoon\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\User\Desktop\MyProject _17_afternoon\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\User\Desktop\MyProject _17_afternoon\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\User\Desktop\MyProject _17_afternoon\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\User\Desktop\MyProject _17_afternoon\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\User\Desktop\MyProject _17_afternoon\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\User\Desktop\MyProject _17_afternoon\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\User\Desktop\MyProject _17_afternoon\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\User\Desktop\MyProject _17_afternoon\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\User\Desktop\MyProject _17_afternoon\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\User\Desktop\MyProject _17_afternoon\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\User\Desktop\MyProject _17_afternoon\bin\Debug\stdole.dll
+C:\Users\User\Desktop\MyProject _17_afternoon\obj\Debug\MyProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MyProject _17_afternoon\obj\Debug\MyProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\MyProject _17_afternoon\obj\Debug\MyProject.Forms.CategoryForm.resources
+C:\Users\User\Desktop\MyProject _17_afternoon\obj\Debug\MyProject.Forms.LoginForm.resources
+C:\Users\User\Desktop\MyProject _17_afternoon\obj\Debug\MyProject.Forms.OrderManagementForm.resources
+C:\Users\User\Desktop\MyProject _17_afternoon\obj\Debug\MyProject.Forms.ProductForm.resources
+C:\Users\User\Desktop\MyProject _17_afternoon\obj\Debug\MyProject.MainForm.resources
+C:\Users\User\Desktop\MyProject _17_afternoon\obj\Debug\MyProject.Report.Form1.resources
+C:\Users\User\Desktop\MyProject _17_afternoon\obj\Debug\MyProject.Report.OrderForm.resources
+C:\Users\User\Desktop\MyProject _17_afternoon\obj\Debug\MyProject.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MyProject _17_afternoon\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MyProject _17_afternoon\obj\Debug\MyProject.csproj.CopyComplete
+C:\Users\User\Desktop\MyProject _17_afternoon\obj\Debug\MyProject.exe
+C:\Users\User\Desktop\MyProject _17_afternoon\obj\Debug\MyProject.pdb
+C:\Users\User\Desktop\1290414_Foysal_Ado\bin\Debug\MyProject.exe.config
+C:\Users\User\Desktop\1290414_Foysal_Ado\bin\Debug\MyProject.exe
+C:\Users\User\Desktop\1290414_Foysal_Ado\bin\Debug\MyProject.pdb
+C:\Users\User\Desktop\1290414_Foysal_Ado\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\User\Desktop\1290414_Foysal_Ado\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\User\Desktop\1290414_Foysal_Ado\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\User\Desktop\1290414_Foysal_Ado\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\User\Desktop\1290414_Foysal_Ado\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\User\Desktop\1290414_Foysal_Ado\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\User\Desktop\1290414_Foysal_Ado\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\User\Desktop\1290414_Foysal_Ado\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\User\Desktop\1290414_Foysal_Ado\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\User\Desktop\1290414_Foysal_Ado\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\User\Desktop\1290414_Foysal_Ado\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\User\Desktop\1290414_Foysal_Ado\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\User\Desktop\1290414_Foysal_Ado\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\User\Desktop\1290414_Foysal_Ado\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\User\Desktop\1290414_Foysal_Ado\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\User\Desktop\1290414_Foysal_Ado\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\User\Desktop\1290414_Foysal_Ado\bin\Debug\stdole.dll
+C:\Users\User\Desktop\1290414_Foysal_Ado\obj\Debug\MyProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\1290414_Foysal_Ado\obj\Debug\MyProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\1290414_Foysal_Ado\obj\Debug\MyProject.Forms.CategoryForm.resources
+C:\Users\User\Desktop\1290414_Foysal_Ado\obj\Debug\MyProject.Forms.LoginForm.resources
+C:\Users\User\Desktop\1290414_Foysal_Ado\obj\Debug\MyProject.Forms.OrderManagementForm.resources
+C:\Users\User\Desktop\1290414_Foysal_Ado\obj\Debug\MyProject.Forms.ProductForm.resources
+C:\Users\User\Desktop\1290414_Foysal_Ado\obj\Debug\MyProject.MainForm.resources
+C:\Users\User\Desktop\1290414_Foysal_Ado\obj\Debug\MyProject.Report.Form1.resources
+C:\Users\User\Desktop\1290414_Foysal_Ado\obj\Debug\MyProject.Report.OrderForm.resources
+C:\Users\User\Desktop\1290414_Foysal_Ado\obj\Debug\MyProject.csproj.GenerateResource.cache
+C:\Users\User\Desktop\1290414_Foysal_Ado\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1290414_Foysal_Ado\obj\Debug\MyProject.csproj.CopyComplete
+C:\Users\User\Desktop\1290414_Foysal_Ado\obj\Debug\MyProject.exe
+C:\Users\User\Desktop\1290414_Foysal_Ado\obj\Debug\MyProject.pdb
+C:\Users\User\Desktop\past Project\1290414_Foysal_Ado\bin\Debug\MyProject.exe.config
+C:\Users\User\Desktop\past Project\1290414_Foysal_Ado\bin\Debug\MyProject.exe
+C:\Users\User\Desktop\past Project\1290414_Foysal_Ado\bin\Debug\MyProject.pdb
+C:\Users\User\Desktop\past Project\1290414_Foysal_Ado\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\User\Desktop\past Project\1290414_Foysal_Ado\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\User\Desktop\past Project\1290414_Foysal_Ado\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\User\Desktop\past Project\1290414_Foysal_Ado\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\User\Desktop\past Project\1290414_Foysal_Ado\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\User\Desktop\past Project\1290414_Foysal_Ado\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\User\Desktop\past Project\1290414_Foysal_Ado\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\User\Desktop\past Project\1290414_Foysal_Ado\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\User\Desktop\past Project\1290414_Foysal_Ado\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\User\Desktop\past Project\1290414_Foysal_Ado\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\User\Desktop\past Project\1290414_Foysal_Ado\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\User\Desktop\past Project\1290414_Foysal_Ado\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\User\Desktop\past Project\1290414_Foysal_Ado\bin\Debug\stdole.dll
+C:\Users\User\Desktop\past Project\1290414_Foysal_Ado\obj\Debug\MyProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\past Project\1290414_Foysal_Ado\obj\Debug\MyProject.exe.config
+C:\Users\User\Desktop\past Project\1290414_Foysal_Ado\obj\Debug\MyProject.Forms.CategoryForm.resources
+C:\Users\User\Desktop\past Project\1290414_Foysal_Ado\obj\Debug\MyProject.Forms.LoginForm.resources
+C:\Users\User\Desktop\past Project\1290414_Foysal_Ado\obj\Debug\MyProject.Forms.OrderManagementForm.resources
+C:\Users\User\Desktop\past Project\1290414_Foysal_Ado\obj\Debug\MyProject.Forms.ProductForm.resources
+C:\Users\User\Desktop\past Project\1290414_Foysal_Ado\obj\Debug\MyProject.MainForm.resources
+C:\Users\User\Desktop\past Project\1290414_Foysal_Ado\obj\Debug\MyProject.Report.Form1.resources
+C:\Users\User\Desktop\past Project\1290414_Foysal_Ado\obj\Debug\MyProject.Report.OrderForm.resources
+C:\Users\User\Desktop\past Project\1290414_Foysal_Ado\obj\Debug\MyProject.csproj.GenerateResource.cache
+C:\Users\User\Desktop\past Project\1290414_Foysal_Ado\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\past Project\1290414_Foysal_Ado\obj\Debug\MyProject.csproj.Up2Date
+C:\Users\User\Desktop\past Project\1290414_Foysal_Ado\obj\Debug\MyProject.exe
+C:\Users\User\Desktop\past Project\1290414_Foysal_Ado\obj\Debug\MyProject.pdb
+F:\all\1290414_Foysal_Ado - Copy\bin\Debug\MyProject.exe.config
+F:\all\1290414_Foysal_Ado - Copy\bin\Debug\MyProject.exe
+F:\all\1290414_Foysal_Ado - Copy\bin\Debug\MyProject.pdb
+F:\all\1290414_Foysal_Ado - Copy\obj\Debug\MyProject.csproj.AssemblyReference.cache
+F:\all\1290414_Foysal_Ado - Copy\obj\Debug\MyProject.Forms.CategoryForm.resources
+F:\all\1290414_Foysal_Ado - Copy\obj\Debug\MyProject.Forms.LoginForm.resources
+F:\all\1290414_Foysal_Ado - Copy\obj\Debug\MyProject.Forms.OrderManagementForm.resources
+F:\all\1290414_Foysal_Ado - Copy\obj\Debug\MyProject.Forms.ProductForm.resources
+F:\all\1290414_Foysal_Ado - Copy\obj\Debug\MyProject.MainForm.resources
+F:\all\1290414_Foysal_Ado - Copy\obj\Debug\MyProject.Report.Form1.resources
+F:\all\1290414_Foysal_Ado - Copy\obj\Debug\MyProject.Report.OrderForm.resources
+F:\all\1290414_Foysal_Ado - Copy\obj\Debug\MyProject.csproj.GenerateResource.cache
+F:\all\1290414_Foysal_Ado - Copy\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+F:\all\1290414_Foysal_Ado - Copy\obj\Debug\MyProject.csproj.Up2Date
+F:\all\1290414_Foysal_Ado - Copy\obj\Debug\MyProject.exe
+F:\all\1290414_Foysal_Ado - Copy\obj\Debug\MyProject.pdb
