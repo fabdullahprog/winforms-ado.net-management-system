@@ -215,10 +215,9 @@ Add screenshots to a `docs/screenshots/` folder and update paths below.
 
 - ![Login Screen](docs/screenshots/login.png)
 - ![Dashboard](docs/screenshots/dashboard.png)
-- ![Category Management](docs/screenshots/category-management.png)
-- ![Product Management](docs/screenshots/product-management.png)
+- ![Category Management](docs/screenshots/category.png)
+- ![Product Management](docs/screenshots/product.png)
 - ![Order Management](docs/screenshots/order-management.png)
-- ![Reports](docs/screenshots/reports.png)
 
 ## Known Limitations / Assumptions
 
