@@ -239,17 +239,4 @@ Add screenshots to a `docs/screenshots/` folder and update paths below.
 - Implement asynchronous DB operations for better UI responsiveness
 - Add advanced reporting filters/export (PDF/Excel)
 
-## Contributing
-
-Contributions are welcome.
-
-1. Fork the repository
-2. Create a feature branch (`feature/your-feature-name`)
-3. Commit focused changes with clear messages
-4. Run and verify the full workflow (login, CRUD, orders, reports)
-5. Open a Pull Request with:
-   - Problem statement
-   - Change summary
-   - Screenshots (if UI changes)
-   - Test/verification notes
 
