@@ -253,18 +253,3 @@ Contributions are welcome.
    - Screenshots (if UI changes)
    - Test/verification notes
 
-## License
-
-No license file is currently present in the repository.
-
-> **Assumption:** All rights reserved by default unless a license (for example, MIT/Apache-2.0) is added.
-
-If you want this project open-source friendly, add a `LICENSE` file and update this section.
-
----
-
-If needed, this README can be further customized for:
-
-- recruiter/portfolio presentation style,
-- enterprise handover documentation,
-- or deployment-focused operational documentation.
